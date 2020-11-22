@@ -1,6 +1,6 @@
 .section {
     font-size: 40px;
-  color: blue;
+  color: green;
   margin: 0 auto;
   text-align: center;
   padding: 10px;
@@ -21,7 +21,7 @@ text-align: center;
   }
   .contactsTitle{
     font-size: 40px;
-    color: blue;
+    color: green;
     margin: 0 auto;
     text-align: center;
     padding: 10px;

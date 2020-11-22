@@ -62,7 +62,6 @@ export default class ContactForm extends Component {
               onChange={this.handleChange}
             />
           </label>
-          <br />
           <button className ={styles.formButton} type="submit" disabled={!name.length || !number.length}>
             Add contact
           </button>
